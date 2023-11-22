@@ -22,7 +22,7 @@ const Home = () => {
                          <Cardscg title='Accessoires'/>                
                  </div>
                 <CgDiv/>
-                {/* <ProductsC/> */}
+                <ProductsC/>
         </div>
         </>
     )
